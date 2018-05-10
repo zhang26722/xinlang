@@ -1,0 +1,113 @@
+@charset "utf-8";
+.xinlang{
+	width: 100%;
+	margin:0 auto;
+}
+.top{
+	width: 289px;
+	height:68px;
+}
+.top img{
+	margin-bottom: 17px;
+}
+.top p{
+	font-size: 14px;
+	color: #333333;
+	background: url(../image/bj.jpg) no-repeat left center;
+}
+.top span{
+	color:#99A5C2;
+}
+.nav{
+	width: 100%;
+	height:43px;
+	background-color: #EBEBEB;
+	border-top: 1px solid #CDCDCD;
+	border-bottom:1px solid #CDCDCD;
+	margin-top:22px; 
+}
+.nav ul{
+	height: 44px;
+}
+.nav li{
+	float:left;
+	width: 65px;
+	height:41px;
+	font-size: 16px;
+	color:#000000;
+	text-align: center;
+	line-height:41px;
+}
+.nav li:hover{
+	border-top: 3px solid #D50335;
+    border-right: 1px solid #CDCDCD;
+    border-left: 1px solid #CDCDCD;
+    color:#D50335;
+    background-color: #FFFFFF;
+    line-height:38px;
+}
+.content{
+	height: 1173px;
+	margin-bottom: 20px;
+}
+.content li{
+	width: 235px;
+	height: 268px;
+	border:1px solid #E4E4E4;
+	float:left;
+}
+.content h6{
+    font-size:16px;
+    color:#333333;
+    font-weight: normal;
+    margin-top: 30px;
+}
+.content p{
+	font-size:12px;
+    color:#999999;
+    width: 211px;
+    line-height:21px;
+    margin-top: 6px;
+}
+.content p,.content h6{
+	margin-left: 10px;
+}
+.content .l1,.content .l2{
+    margin-bottom:31px; 
+}
+.content .l1{
+	margin-right: 17px;
+}
+.content ul{
+	margin-top: 30px;
+}
+.fenye{
+	margin-top: 51px;
+	text-align: center;
+	margin-bottom: 80px;
+}
+.fenye li{
+	padding:8px 9px 7px 9px;
+	border:1px solid #D7D7D7;
+	font-size: 12px;
+	color:#000000;
+}
+.fenye li,.fenye a{
+	float:left;
+}
+.shu:hover{
+    background-color: #AD0000;
+    border:1px solid #AD0000;
+    color:#FFFFD7;
+}
+.shang,.shu,.dian{
+	margin-right: 5px;
+}
+.weibu{
+	text-align: center;
+}
+.weibu p{
+	font-size:10px;
+	color:#666666;
+	line-height:32px;
+}
